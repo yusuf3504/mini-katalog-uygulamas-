@@ -24,6 +24,7 @@ Bu uygulamada aşağıdaki özellikler bulunur:
 
 ## Ekran Görüntüleri
 Aşağıda uygulamadan bazı ekran görüntüleri yer almaktadır:
+
 ![6a858302-30ae-4d26-a985-6e44acfe34cf](https://github.com/user-attachments/assets/d10e6d16-9e39-4a83-bccc-c58d79ad6e06)
 ![1efa4f64-2747-4f25-b4fa-d737be7641c9](https://github.com/user-attachments/assets/5cf97eaf-2a72-4714-931c-46ad0a8a3bb7)
 ![6a858302-30ae-4d26-a985-6e44acfe34cf](https://github.com/user-attachments/assets/0d2fff8e-a28b-4659-84a3-60de6096c15c)
