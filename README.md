@@ -24,6 +24,12 @@ Bu uygulamada aşağıdaki özellikler bulunur:
 
 ## Ekran Görüntüleri
 Aşağıda uygulamadan bazı ekran görüntüleri yer almaktadır:
+![6a858302-30ae-4d26-a985-6e44acfe34cf](https://github.com/user-attachments/assets/d10e6d16-9e39-4a83-bccc-c58d79ad6e06)
+![1efa4f64-2747-4f25-b4fa-d737be7641c9](https://github.com/user-attachments/assets/5cf97eaf-2a72-4714-931c-46ad0a8a3bb7)
+![6a858302-30ae-4d26-a985-6e44acfe34cf](https://github.com/user-attachments/assets/0d2fff8e-a28b-4659-84a3-60de6096c15c)
+![809468c0-4431-4908-985d-ec3494c97ce6](https://github.com/user-attachments/assets/f78cae98-0eaa-4acf-8be2-2afa9a30d3ac)
+![062329d7-ca4f-4523-b4be-c9f247f869ae](https://github.com/user-attachments/assets/d7ecc143-cbe0-41d5-9fa9-91cbf351d077)
+![aee8752c-eb8d-4c1d-b0b5-e41d064ba205](https://github.com/user-attachments/assets/bd3a036d-7bd0-4362-96f7-b01378095df0)
 
 
 ## Proje Klasör Yapısı
@@ -59,7 +65,7 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 2. proje klösörüne gir: 
 cd mini-katalog-uygulamas-
 
-- Bağımlılıkları yükle:
+3. Bağımlılıkları yükle:
 flutter pub get
 
 4. Uygulamayı çalıştır:
