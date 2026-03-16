@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Kahve Kupası",
+    "price": 149.90,
+    "thumbnail": "assets/images/coffee.png",
+    "description": "Seramik, 350ml, bulaşık makinesine uygun."
+  },
+  {
+    "id": 2,
+    "title": "Bluetooth Kulaklık",
+    "price": 899.00,
+    "thumbnail": "assets/images/headphones.png",
+    "description": "AAC destekli, 24 saat pil ömrü."
+  },
+  {
+    "id": 3,
+    "title": "Akıllı Telefon",
+    "price": 12499.00,
+    "thumbnail": "assets/images/phone.png",
+    "description": "128GB, 6.5\" ekran, 5000mAh pil."
+  },
+  {
+    "id": 4,
+    "title": "Koşu Ayakkabısı",
+    "price": 2199.00,
+    "thumbnail": "assets/images/shoes.png",
+    "description": "Nefes alabilen kumaş, hafif taban."
+  }
+]
